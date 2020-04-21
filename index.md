@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Some nice projects! 
 
 [Wine Quality Prediction - Classification](https://github.com/nasserboan/wine-quality)
 <img src="images/wine.png?raw=true"/>
@@ -30,8 +30,9 @@
 
 ---
 
+### Other Projects
 
-
+- [OAE-DF - Folium](https://github.com/nasserboan/oaedf/blob/master/oaedf.ipynb)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
