@@ -23,7 +23,7 @@
 ### Introdutory Projects
 
 - [Titanic](https://github.com/nasserboan/titanic)
-- [IRIS - TODO](http://example.com/)
+- [Iris](https://github.com/nasserboan/iris-different)
 - [House Priecs - TODO](http://example.com/)
 - [MNIST - TODO](http://example.com/)
 - [Project 5 Title](http://example.com/)
