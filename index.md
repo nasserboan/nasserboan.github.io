@@ -8,21 +8,21 @@
 <img src="images/wine.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[NYC Pizzerias - Clustering](https://github.com/nasserboan/nyc_pizza/blob/master/nyc_pizza_project.ipynb)
+<img src="images/nyc.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Poem Generator - NLP](https://www.kaggle.com/nazeboan/poem-generator-mle)
+<img src="images/poem.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### Introdutory Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
+- [Titanic](https://github.com/nasserboan/titanic)
+- [IRIS - TODO](http://example.com/)
+- [House Priecs - TODO](http://example.com/)
+- [MNIST - TODO](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
 ---
