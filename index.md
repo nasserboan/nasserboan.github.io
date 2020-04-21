@@ -12,10 +12,13 @@
 <img src="images/nyc.png?raw=true"/>
 
 ---
-[Poem Generator - NLP](https://www.kaggle.com/nazeboan/poem-generator-mle)
+[Poem Generator - NLP](https://www.kaggle.com/nazeboan/poem-generator-mle)<br>
 <img src="images/poem.png?raw=true"/>
 
 ---
+[Similar Poems - NLP](https://www.kaggle.com/nazeboan/td-idf-and-cossine-similar-poems)<br>
+<img src="images/poem2.png?raw=true"/>
+
 
 ### Introdutory Projects
 
