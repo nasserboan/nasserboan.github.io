@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Wine Quality Prediction - Classification](https://github.com/nasserboan/wine-quality)
+<img src="images/wine.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
